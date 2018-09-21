@@ -22,10 +22,6 @@ html {
   outline: 0;
   -webkit-overflow-scrolling: touch; }
 
-.banner {
-  height: 11rem;
-}
-
 img,
 video,
 audio {
